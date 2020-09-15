@@ -1,0 +1,7 @@
+// Ruby linting with ruby -wc
+{
+	"version": "0.1.0",
+	"command": "ruby",
+	"isShellCommand": true,
+	"args": ["${file}"]
+}
