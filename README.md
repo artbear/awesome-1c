@@ -60,6 +60,7 @@
 * [PostgreSQL для 1С (сборка под Vagrant+Docker)](https://github.com/VanessaDockers/pgsteroids) - виртуальная машина для использования на разработческих контурах в связке с мини-сервером 1С
 * [LogStash для 1С Sqlite](https://github.com/silverbulleters-research/logstash-vanessa-sqlitelogs) - плагин для LogStash для инкрементальной выгрузки журналов регистрации 1С в ElasticSearch
 * [TaskManagerFor1C](https://github.com/wizi4d/TaskManagerFor1C) - инструмент для создания параллельных алгоритмов с гарантированным выполнением в среде 1С Предприятия 
+* [Prometheus 1C exporter] (https://github.com/LazarenkoA/prometheus_1C_exporter) - exporter для Prometheus который собирает метрики из на основе RAC
 
 ## Подсветка синтаксиса и пакеты для редакторов
 
@@ -73,6 +74,7 @@
 * [BROM-Asterisk-Native](https://github.com/shachneff/BROM-Asterisk-Native) - Открытая, работающая в 1С >= 8.3.6 версия компоненты ROM-Asterisk-Native от Simplit
 * [Template for 1C:Enterprise add-in](https://github.com/gnusi/AddInNativeTemplate) - Шаблон внешней компоненты. Сборка с помощью CMake
 * [FPNativeAPI](https://github.com/Zawullon/fpnativeapi) - пример Native API расширения для 1С на FreePascal/Lazarus
+* [RegEx1CAddin](https://github.com/alexkmbk/RegEx1CAddin) - Внешняя Native API компонента для выполнения регулярных выражений на платформе 1С:Предприятие 8
 
 ## Фреймворки для интеграции с 1С
 
