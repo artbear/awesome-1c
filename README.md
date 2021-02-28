@@ -2,9 +2,7 @@
 
 `proposal of the list to for the 1C Enterprise platform (1c-dn.com), will be in Russian right now`
 
-> todo - сделать оглавление автоматизировано
-
-перед добавлением своей программы в список пожалуйста изучите
+Перед добавлением своей программы в список, пожалуйста, изучите:
 
 * [Инструкцию по добавлению](CONTRIBUTING.md)
 * [Критерии качества добавляемого приложения](CONTRIBUTING.md)
@@ -30,8 +28,9 @@
 
 ## Контроль качества разработки
 
-* [Automation Driven Development](https://github.com/silverbulleters/add) - ADD для 1C (BDD&TDD&etc)
-* [xUnitFor1C](https://github.com/xDrivenDevelopment/xUnitFor1C) - TDD для 1С
+* [Vanessa-ADD](https://github.com/silverbulleters/add) - любые тесты, TDD, BDD для 1С - Automation Driven Development
+  * (устарел - продолжение в Vanessa-ADD) [xUnitFor1C](https://github.com/xDrivenDevelopment/xUnitFor1C) - TDD для 1С
+* [Vanessa Automation](https://github.com/Pr-Mex/vanessa-automation) - BDD для 1С
 * [Tester](https://github.com/grumagargler/CommonTests) - Почти SpecLog для 1С
 
 ## Библиотеки и утилиты для работы
