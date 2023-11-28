@@ -36,6 +36,7 @@
 ## Библиотеки и утилиты для работы
 
 * [Инструменты разработчика от tormozIT](https://github.com/tormozit/1C-Runtime-Developer-Tools) - инструменты разработчика (дай бог здоровья автору)
+* [Универсальные инструменты 1С для управляемых форм](https://github.com/cpr1c/tools_ui_1c) - набор инструментов для управляемых форм
 * [Local Compile Utils](https://github.com/silverbulleters/vanessa-runner) - скрипты для локальной сборки "за один шаг"
 * [v8unpack](https://github.com/dmpas/v8unpack/tree/v.3.0) - утилита С++ для работы с бинарными файлами 1С
 * [oscript-library](https://github.com/EvilBeaver/oscript-library) - полезные библиотеки на 1Script
